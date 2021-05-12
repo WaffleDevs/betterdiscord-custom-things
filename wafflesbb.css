@@ -71,7 +71,7 @@
 
 /* CODEBLOCK */
 .textContainer-C0szpm {
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(0px);
     border: none;
     border-radius: 0px;
 }
@@ -80,7 +80,7 @@
 }
 .root-SR8cQa, .body-3ND3kc, .bodyInner-245q0L, .footer-1fjuF6, .button-1YfofB,
 .sidebarRegionScroller-3MXcoP, .contentRegion-3nDuYy, .modal-3c3bKg {
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(0px);
 }
 
 .container-3baos1 {
